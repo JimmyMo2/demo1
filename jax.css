@@ -1,0 +1,5 @@
+#screen { width: 800px; height: 640px; position: relative; background-color: #223344;}
+#inner { position: absolute; left:0px; top:0px; width:100%; height:100%; }
+.ball_one { background-image:url('红球.png'); background-size:100%;}
+.ball_two { background-image:url('篮球.png'); background-size:100%;}
+#start, #stop { width:100px; height:28px;margin: 40px 15px 0 15px;}
